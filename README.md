@@ -1,4 +1,5 @@
 README: Função SQL para Contar Clientes cadastrados por Dia
+
 Esta é uma função SQL que conta o número de clientes cadastrados em uma tabela durante um dia específico. A função foi projetada para ser utilizada em bancos de dados que armazenam informações sobre clientes, onde há uma coluna de data de cadastro.
 
 Função SQL
